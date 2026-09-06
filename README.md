@@ -9,12 +9,12 @@ It is a mobile app with an AI-powered backend to turn three everyday frictions �
 ## Demo
 
 <p align="center">
-  <video src="docs/media/MedWiseAppDemo.mp4" width="360" controls muted playsinline>
-    Your browser does not support inline video — <a href="docs/media/MedWiseAppDemo.mp4">download the demo</a>.
-  </video>
+  <a href="docs/media/MedWiseAppDemo.mp4">
+    <img src="docs/media/MedWiseAppDemo.gif" width="260" alt="MedWise app demo">
+  </a>
 </p>
 
-📽️ **[Watch the app demo](docs/media/MedWiseAppDemo.mp4)** — a full walkthrough of the AI diagnosis flow, medication reminders, pack scanner, and clinical library.
+📽️ **[Watch the full demo with sound (MP4)](docs/media/MedWiseAppDemo.mp4)** — a complete walkthrough of the AI diagnosis flow, medication reminders, pack scanner, and clinical library.
 
 ---
 
