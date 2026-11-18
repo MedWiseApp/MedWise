@@ -4,6 +4,10 @@
 
 It is a mobile app with an AI-powered backend to turn three everyday frictions — *"what could this be?"*, *"did I take my medication?"*, and *"what am I actually holding in my hand?"* — into a few taps.
 
+🌐 **Website:** [www.medwiseapp.com](https://www.medwiseapp.com/)
+
+🆕 **Latest release:** MedWise 0.0.2 (build 2) — see the [release notes](apps/RELEASE_NOTES.md).
+
 ---
 
 ## Demo

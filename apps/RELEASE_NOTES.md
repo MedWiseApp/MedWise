@@ -1,3 +1,18 @@
+## MedWise 0.0.2 (build 2)
+
+Get MedWise from the website: **[www.medwiseapp.com](https://www.medwiseapp.com/)**
+
+### What's new
+
+- Faster sign-up: no profile questions after you create an account
+- Email verification: confirm your email address before you start
+- Diagnosis: select more than one body area, and choose from more precise durations
+- Diagnosis history: tap a past diagnosis to see every result from it
+- Medicines: confirm before a dose is marked as taken
+- Bug fixes and visual improvements
+
+---
+
 ## MedWise 0.0.1 (build 1) — test build
 
 First test release of MedWise: medication reminders, medicine pack barcode scanning, interaction and allergy checks, an AI symptom checker, adherence reports and a clinical reference library.
