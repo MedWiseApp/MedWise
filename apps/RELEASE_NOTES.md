@@ -1,3 +1,22 @@
+## MedWise 0.0.3 (build 3)
+
+Get MedWise from the website: **[www.medwiseapp.com](https://www.medwiseapp.com/)**
+
+### What's new
+
+- Medicine scan: details now come from the official medicine registries of Türkiye, the US, France, Spain and the Netherlands
+- Medicine scan: open the official leaflet, and get a warning when a pack is no longer on the market
+- Medicine search: find a medicine by name, or type in a barcode instead of scanning
+- Medicine scan: looking up a barcode that isn't in a registry is now free, and the result is clearly marked as unverified
+- Scan history: tap a scan to reopen it, search and filter, see which packs have expired, and share or delete several scans at once
+- Find a doctor: after a diagnosis, see which specialist to visit, find one nearby, book on MHRS in Türkiye, or call the local emergency number if it may be urgent
+- Diagnosis: send your results to your doctor by WhatsApp, email and more
+- Diagnosis history: when you edit a past diagnosis, the body areas, severity and duration you chose are kept
+- Purchases (Android): if diagnoses you bought don't show up, they're now added automatically the next time you open the app
+- Bug fixes and visual improvements
+
+---
+
 ## MedWise 0.0.2 (build 2)
 
 Get MedWise from the website: **[www.medwiseapp.com](https://www.medwiseapp.com/)**

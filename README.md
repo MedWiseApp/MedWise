@@ -6,7 +6,7 @@ It is a mobile app with an AI-powered backend to turn three everyday frictions �
 
 🌐 **Website:** [www.medwiseapp.com](https://www.medwiseapp.com/)
 
-🆕 **Latest release:** MedWise 0.0.2 (build 2) — see the [release notes](apps/RELEASE_NOTES.md).
+🆕 **Latest release:** MedWise 0.0.3 (build 3) — see the [release notes](apps/RELEASE_NOTES.md).
 
 ---
 
